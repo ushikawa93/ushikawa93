@@ -17,12 +17,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+
 ## 📂 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_de1soc&theme=tokyonight)](https://github.com/ushikawa93/lockin_de1soc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=signal_processing_fpga&theme=tokyonight)](https://github.com/ushikawa93/signal_processing_fpga)
-
-
+| | |
+|---|---|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=signal_processing_fpga&theme=tokyonight)](https://github.com/ushikawa93/signal_processing_fpga) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_de1soc&theme=tokyonight)](https://github.com/ushikawa93/lockin_de1soc) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=adquisidor_red_pitaya&theme=tokyonight)](https://github.com/ushikawa93/adquisidor_red_pitaya) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_redpitaya&theme=tokyonight)](https://github.com/ushikawa93/lockin_redpitaya) |
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushikawa93&show_icons=true&theme=tokyonight)
@@ -30,4 +31,5 @@
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matias-javier-oliva-306ab3150/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Matias-Javier-Oliva/research)
+📧 Email: [matias.oliva93@gmail.com](mailto:matias.oliva93@gmail.com)
 
