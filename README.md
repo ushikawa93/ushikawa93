@@ -31,5 +31,6 @@
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matias-javier-oliva-306ab3150/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Matias-Javier-Oliva/research)
-📧 Email: [matias.oliva93@gmail.com](mailto:matias.oliva93@gmail.com)
+
+📧 [matias.oliva93@gmail.com](mailto:matias.oliva93@gmail.com)
 
