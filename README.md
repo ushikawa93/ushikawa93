@@ -17,6 +17,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+## 📂 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_de1soc&theme=tokyonight)](https://github.com/ushikawa93/lockin_de1soc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=signal_processing_fpga&theme=tokyonight)](https://github.com/ushikawa93/signal_processing_fpga)
+
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushikawa93&show_icons=true&theme=tokyonight)
 
