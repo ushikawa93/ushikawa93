@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matias
 
-🔭 I work in **Digital Hardware Design** and **Signal Processing**.  
+🔭 I work in **Digital Hardware Design** and **Signal Processing**.   
 🌱 I'm an **Electronics Engineer** with a PhD from the **National University of La Plata**.  
 🌱 I work on **scientific instrumentation** together with the GIBIC research group.  
 🌱 I have strong experience in **hardware design** using **Verilog** and **VHDL**.  
