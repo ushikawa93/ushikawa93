@@ -23,8 +23,8 @@
 
 | | |
 |---|---|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=signal_processing_fpga&theme=tokyonight&cache_seconds=3600)](https://github.com/ushikawa93/signal_processing_fpga) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_de1soc&theme=tokyonight&cache_seconds=3600)](https://github.com/ushikawa93/lockin_de1soc) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=adquisidor_red_pitaya&theme=tokyonight&cache_seconds=3600)](https://github.com/ushikawa93/adquisidor_red_pitaya) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_redpitaya&theme=tokyonight&cache_seconds=3600)](https://github.com/ushikawa93/lockin_redpitaya) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=signal_processing_fpga&theme=shadow_blue&cache_seconds=3600)](https://github.com/ushikawa93/signal_processing_fpga) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_de1soc&theme=shadow_blue&cache_seconds=3600)](https://github.com/ushikawa93/lockin_de1soc) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=adquisidor_red_pitaya&theme=shadow_blue&cache_seconds=3600)](https://github.com/ushikawa93/adquisidor_red_pitaya) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ushikawa93&repo=lockin_redpitaya&theme=shadow_blue&cache_seconds=3600)](https://github.com/ushikawa93/lockin_redpitaya) |
 
 <!-- ## 📊 GitHub Stats -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ushikawa93&show_icons=true&theme=tokyonight) -->
